@@ -66,7 +66,5 @@ All web-servers need a "first page" to show when you visit a site. For example, 
 🖱️ **[Here is a list](https://www.w3schools.com/tags/default.asp) of all the HTML tags that exist.**
 
 Play around with the tags on your page and insert fake content. Try the different headers, paragraphs, divs, break-lines, etc... Maybe even try inserting a picture, if you can (but don't worry, we'll have a lesson on that next class).
-
-
-<br><br>
+<br>
 🐠
